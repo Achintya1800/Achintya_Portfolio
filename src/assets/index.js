@@ -25,8 +25,12 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import mechhelplogo from "./company/mechhelplogo.png";
+import EyLogo from "./company/EyLogo.png";
 
 import carrent from "./carrent.png";
+import Dashboard from "./Dashboard.png";
+import Skillsakhi from "./Skillsakhi.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -56,7 +60,11 @@ export {
   shopify,
   starbucks,
   tesla,
+  mechhelplogo,
+  EyLogo,
   carrent,
+  Dashboard,
+  Skillsakhi,
   jobit,
   tripguide,
 };
