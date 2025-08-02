@@ -42,6 +42,7 @@ export const navLinks = [
   },
 ];
 
+// Updated services array
 const services = [
   {
     title: "Web Developer",
