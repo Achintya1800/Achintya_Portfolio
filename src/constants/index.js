@@ -42,7 +42,7 @@ export const navLinks = [
   },
 ];
 
-// Updated services array
+// Services configuration
 const services = [
   {
     title: "Web Developer",
